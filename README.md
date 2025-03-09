@@ -13,6 +13,9 @@
 
 --- 
 
+# 🗝 How to use it  
+You just have to download the zip file that is at the beginning of this repository, or clone the repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "php -S localhost:8000", this will start loading commands allowing you to visualize the project in the browser.
+
 # ✨ Features
 
 ✅ **Interactive Dashboard**: View general stats such as total characters, average level, maximum level, and the most frequent type.  
