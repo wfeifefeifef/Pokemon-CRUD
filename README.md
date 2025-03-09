@@ -24,7 +24,7 @@
 ✅ **Character Management**: Includes links to list and add characters through an intuitive interface.  
 ✅ **Database Connection**: Uses PDO for secure and efficient database management.  
 
-🍷 # Customization
+# 🍷 Customization
 
 1. Advanced Filters: Add filtering options by date, category, or other parameters.  
 2. Full CRUD: Extend the application to edit and delete characters.  
